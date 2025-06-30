@@ -1,2 +1,2 @@
-# flightbooking_user_login
-This is the user-login service for the flight booking system.
+# User login service for flight booking system
+
